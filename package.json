@@ -1,0 +1,16 @@
+{
+  "name": "js-ws-template",
+  "version": "1.0.0",
+  "description": "A Template for Web Services made with NodeJS",
+  "main": "www.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./bin/www"
+  },
+  "author": "Benjamin Mazenko",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
